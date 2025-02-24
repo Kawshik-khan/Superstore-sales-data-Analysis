@@ -8,13 +8,13 @@ This project focuses on analyzing a Superstore dataset by performing various dat
 ## Table of Contents
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
-- [Steps Involved](#steps-involved)
+- [Analysis step by step](#Analysis-step-by-step)
 - [Implementation Details](#implementation-details)
 - [Results](#results)
 - [Conclusion](#conclusion)
 
 ## Dataset
-I have uploaded the dataset called _Superstore Sales Data.csv_
+I have uploaded the dataset called ****Superstore Sales Data.csv****
 
 ## Technologies Used
 - MySQL
