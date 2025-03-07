@@ -24,6 +24,7 @@ I have uploaded the dataset called ****Superstore Sales Data.csv****
 ## Analysis step by step  
 1. **Bulk Insertion**
    - Insert data from a CSV or Excel file into MySQL database tables.
+   - Images/Screenshot_1.png
    
 2. **Checking Data Errors**
    - Identify missing values, duplicate records, and inconsistent data.
